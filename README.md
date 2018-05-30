@@ -138,10 +138,17 @@
 # 베트남 P2P 대출 규제
 - 아직 규제법안이 없다.
 
+# 5년 뒤 베트남 P2P 대출의 모습
+- 은행들은 Prime Customers에 계속 집중할 것이다.
+  - 베트남의 중산층은 빠른속도로 증가하고 있다.(동남아시아의 중산층은 2020년까지 4억명 증가 예상) 즉, Prime Customer가 빠르게 증가할 것이다.
+- 은행들과의 파트너십은 강화될 것이다.
+  - P2P 대출은 은행이 쌓아온 신뢰를 얻기에 시간이 부족하다.
+
 # Reference
   - 기준하 (2018), 『P2P 대출의 현황과 향후 과제』, 국회입법조사처
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
   - 이성복 (2018), 『P2P 대출중개시장 분석과 시사점』, KCMI 자본시장연구원
   - Kate Tran (2017.12.18) 『Vietnamese consumer finance market』, The Low Down, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
+  - Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
   - 최광일 (2017.11.01), 『베트남 전자지갑 앱 '모모'의 거침없는 진격 』, Insight Korea, Retrieved from http://www.insightkorea.co.kr/news/articleView.html?idxno=14993
   - 
