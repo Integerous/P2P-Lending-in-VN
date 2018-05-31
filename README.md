@@ -140,15 +140,38 @@
 
 # 5년 뒤 베트남 P2P 대출의 모습
 - 은행들은 Prime Customers에 계속 집중할 것이다.
-  - 베트남의 중산층은 빠른속도로 증가하고 있다.(동남아시아의 중산층은 2020년까지 4억명 증가 예상) 즉, Prime Customer가 빠르게 증가할 것이다.
+  - 베트남의 중산층은 빠른속도로 증가하고 있다.(동남아시아의 중산층은 2020년까지 4억명 증가 예상)  
+  즉, Prime Customer가 빠르게 증가할 것이다.
+    - Credit Quality에 따른 피라미드형 고객 구분  
+    (상단에서부터 Prime Customers - Unbanked Customers - Defaulted Customers)
 - 은행들과의 파트너십은 강화될 것이다.
   - P2P 대출은 은행이 쌓아온 신뢰를 얻기에 시간이 부족하다.
+    - P2P 플랫폼은 다른 스타트업 분야들 보다 신뢰가 더욱 중요하다.
+    - 은행은 PG사, 보험사 등과의 네트워크 효과, 잘 구축된 인프라, 규제 준수를 통해 고객에게 신뢰를 얻었다.
+  - 은행은 거대한 투자자 Pool을 가지고 있다.
+    - P2P 플랫폼은 대차대조표에 의해 대출하거나 예치금을 받지 않는다.  
+    때문에 차입자가 많아 질수록 유동성이 점차 중대한 이슈가 된다. 
+    - 하지만 증가하는 차입자만큼 투자자를 유치하는 것은 쉽지 않은 반면,  
+    P2P 플랫폼의 수익성은 차입자와 투자자를 연결시키는 사이클을 최대한 많이 돌리는 것에 달려있다.
+    - 때문에 P2P 플랫폼이 규모를 키울 때 직면하는 가장 큰 난관은 충분한 투자자 Pool에 대한 접근인데, 은행은 가지고 있다.
+- 규제가 가장 큰 허들이 될 것이다.
+  - 아직 베트남에는 P2P 관련 규제가 없다. 하지만 2016년에 싱가포르에서 발표한 P2P 대출 가이드라인을 기반으로 규제가 만들어질 가능성이 크다.
+  - 규제 준수에는 비용이 따른다. 때문에 P2P 플랫폼의 수익성은 줄어들 것이다.
+- P2P 제품이 다양해질 것이다.
+  - 현재의 P2P 제품은 SME(중소상공인) 대출에 집중되어있다.
+  - P2P 시장이 성숙하기 위해서는 넓은 범위의 투자자들의 다양한 목적을 충족시키는 제품으로 확대해야 한다.
+- 비전통적 신용 모델과 데이터 소스가 중요해질 것이다.
+  - 아직 P2P 플랫폼들의 신용 모델은 규제당국과 고객들에게 면밀하게 검토되지 않은 상태이다.
+  - 때문에 실패가 관용되는 실험적 무대에 서있는 상태이지만 곧 P2P 플랫폼들의 신용모델에 따라 희비가 갈릴 것이다.
+  - 더 정교한 모델링과 고객 타깃팅이 필요해질 것이므로 비전통적 신용 모델과 데이터 소스가 중요해질 것이다.
+
 
 # Reference
-  - 기준하 (2018), 『P2P 대출의 현황과 향후 과제』, 국회입법조사처
+
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
-  - 이성복 (2018), 『P2P 대출중개시장 분석과 시사점』, KCMI 자본시장연구원
   - Kate Tran (2017.12.18) 『Vietnamese consumer finance market』, The Low Down, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
-  - Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
+  - Henry Lim (2016.10.30) 『The Future Of P2P Lending in Southeast Asia』[Medium], Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
+  - 기준하 (2018), 『P2P 대출의 현황과 향후 과제』, 국회입법조사처
+  - 이성복 (2018), 『P2P 대출중개시장 분석과 시사점』, KCMI 자본시장연구원
   - 최광일 (2017.11.01), 『베트남 전자지갑 앱 '모모'의 거침없는 진격 』, Insight Korea, Retrieved from http://www.insightkorea.co.kr/news/articleView.html?idxno=14993
   - 
