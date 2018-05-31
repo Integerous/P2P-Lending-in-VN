@@ -27,6 +27,17 @@
 - 모바일 인터넷 사용자 수는 인구의 48%고 세계 평균인 46.8%보다 높다.
 - 모바일 기기에서의 웹 트래픽(34%)은 PC에서의 웹 트래픽(64%)에 비해 낮지만, 매년 40%씩 빠르게 증가하는 추세다.(세계평균은 30%씩 증가) 
 
+### 베트남의 소비자 대출은 증가하고 있다.
+- 베트남 금융감독위원회(NFSC)에 따르면 2017년 소비자 신용 대출이 전체 대출의 18% 차지했고 2016년 12.3%보다 증가했다.
+  - 소비자 신용 대출의 52.9%는 주택자금대출이며, 젊은 세대 증가 및 도시화로 인한 주택 수요 증가로 인한 것이다.
+- 금융감독위원회는 소비자 신용대출 시장이 앞으로 높은 성장세를 보일 것으로 전망하고 있다.
+- 베트남의 소비자 대출의 비중은 18%로, 중상위 소득 국가들이 30%인 것에 비하여 낮은 편이다.
+- 베트남 국가재정금융정책감독위원회 장관은 글로벌 트렌드에 따라 베트남의 소비자 신용 대출시장을 더욱 발전시켜 국내 소비와 생산을 활성화해야 한다고 말했다.
+- 이와 동시에 국가가 소비자 대출의 리스크를 관리할 필요성이 있다고 강조했다.
+
+### 하지만 은행 대출은 증가하고 있다.
+- 은행의 소비자 신용대출 시장 점유율은 2016년 39%에서 2017년 하반기 45.7%로 증가하였다.
+
 - 2017년 1월 Wearesocial의 조사에 따르면
   - 베트남 인구의 72%가 스마트폰 보유자이며
   - 모바일 인터넷 활성사용자 수는 약 4700만명
@@ -113,6 +124,9 @@
 # 베트남 P2P Lending 회사들
 - Huydong
 - Loanvi
+  - 2015년 설립된 개인 대출을 위한 P2P 대출 플랫폼.
+  - Loanvi의 목표는 투자자들과 은행을 사용하지 않는(못하는) 개인들을 연결하는 채널이 되는 것.
+  - 2016년 L
 - Tima
 - TrustCircle
 - SHA
@@ -169,8 +183,9 @@
 # Reference
 
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
-  - Kate Tran (2017.12.18) 『Vietnamese consumer finance market』, The Low Down, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
-  - Henry Lim (2016.10.30) 『The Future Of P2P Lending in Southeast Asia』[Medium], Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
+  - Kate Tran (2017.12.18), Vietnamese consumer finance market, *The Low Down*, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
+  - Henry Lim (2016.10.30), The Future Of P2P Lending in Southeast Asia [Medium], Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
+  - Consumer lending in VN surged 65% in 2017 (2018.01.09), *Viet Nam News*, Retrieved from http://vietnamnews.vn/economy/420785/consumer-lending-in-vn-surged-65-in-2017.html#mTY60fEJh5JJG7L7.97
   - 기준하 (2018), 『P2P 대출의 현황과 향후 과제』, 국회입법조사처
   - 이성복 (2018), 『P2P 대출중개시장 분석과 시사점』, KCMI 자본시장연구원
   - 최광일 (2017.11.01), 『베트남 전자지갑 앱 '모모'의 거침없는 진격 』, Insight Korea, Retrieved from http://www.insightkorea.co.kr/news/articleView.html?idxno=14993
