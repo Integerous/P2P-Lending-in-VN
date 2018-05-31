@@ -25,7 +25,11 @@
 - 농촌 거주자들은 수입이 일정하지 않아서 은행이 달가워하지 않는 고객이므로 P2P 업계에 기회가 될 수 있다.
 - 아직 어떠한 P2P 플랫폼도 지배적인 시장지배력을 갖지 못했다.
 - 모바일 인터넷 사용자 수는 인구의 48%고 세계 평균인 46.8%보다 높다.
+- 2016년에 베트남 총리가 비준한 광대역 개발 계획에 따라 베트남 정부는 2020년까지 인구의 95%가 4G LTE 범위를 확장할 계획이다.
 - 모바일 기기에서의 웹 트래픽(34%)은 PC에서의 웹 트래픽(64%)에 비해 낮지만, 매년 40%씩 빠르게 증가하는 추세다.(세계평균은 30%씩 증가) 
+- 베트남 상업산업회의(VCCI)에 의하면 은행 대출의 약 3%만 SME(Small-Medium Enterprise)로 향했다. 그리고 SME의 3분의 1 미만만 신용대출을 받을 수 있다.
+  - 베트남에는 약 60만개의 SME가 있고, 약 48만개의 SME가 세금을 납부한다. 게다가 약 400만개의 가족사업도 SME에 포함될 수 있다.
+  - SME는 베트남 전체 일자리의 52%를 차지한다.
 
 ### 베트남의 소비자 대출은 증가하고 있다.
 - 베트남 금융감독위원회(NFSC)에 따르면 2017년 소비자 신용 대출이 전체 대출의 18% 차지했고 2016년 12.3%보다 증가했다.
@@ -123,16 +127,40 @@
 
 # 베트남 P2P Lending 회사들
 - Huydong
-- Loanvi
+  - LoanVi에서 사명 바꿈
   - 2015년 설립된 개인 대출을 위한 P2P 대출 플랫폼.
   - Loanvi의 목표는 투자자들과 은행을 사용하지 않는(못하는) 개인들을 연결하는 채널이 되는 것.
-  - 2016년 L
+  - 한국 Sparklab의 인큐베이팅을 받았다.
 - Tima
+  - 2017년 12월 기준 하루에 약 1000개의 대출요청서를 받았다.
+  - 하루에 1만 건의 대출요청서를 처리할 수 있도록 서비스를 업그레이드 할 예정
+  - 2018년 3월 기준 약 5000명의 투자자들이 Tima finance trading floor(회원수 80만명)에서 대출을 제공해왔다.
+  - 누적 7억 달러의 트랜잭션을 이루었다.
+
+- Vaymuon
+  - 베트남 최초의 온라인 P2P 대출 플랫폼
+  - 첫 대출은 4시간 안에 검토하고, 만약 승인되면 다음 대출은 30분 이내에 가능하다. 담보나 서류는 필요하지 않다.
+  - 차입자의 대출요청은 e-wallet인 VIMO의 투자자들에게 소개되고 VayMuon에 의해 지출되고 보증된다.
+  - 차입자들은 VayMuon 앱을 설치하고 신원확인 서류를 업로드해야한다.
+  - AI를 기반으로한 빅데이터 수집과 분석을 통해 고객의 신용평가 과정을 자동화하였다.
+  - VayMuon 앱을 설치하여 계정을 등록하고 VIMO e-wallet과 연동시킬 수 있으면 누구나 투자자가 될 수 있다.
+  - 대출금액은 State Bank of Vietnam의 라이선스를 받은 제3자 지불 플랫폼을 통해 투자자로부터 차입자로 바로 옮겨진다.
+  - 차입자들의 개인정보 보호를 위해서 투자자들은 차입자의 이름과 대출 목적만 알 수 있다.
+  - NextTech Group의 e-commerce, 전자지불, 물류를 위한 20개 이상의 시스템환경을 도입하여 차입자를 실시간으로 검증하기 위한 빅데이터와 알고리즘을 제공받았다.
+- Lendbiz
+  - SME를 타깃으로 함
+  - 한 번에 최대 44,000 USD 까지 담보없이 대출 가능
+  - 투자자는 최소 22 USD부터 투자에 참여할 수 있고, 최대 연20% 수익율을 약속한다.
+- Investree
+  - 인도네시아 P2P 플랫폼 스타트업으로 2018년에 베트남에 진출한다.
+  - 베트남 현지 금융기관과 joint venture 형태로 시장에 진출한다.
+- MoneyBank
+  - 차입자는 담보나 서류없이 투자자로부터 직접 대출을 받을 수 있다.
+  - 베트남 섬을 제외한 모든 지역에서 사용 가능하다.
+  - 전국 2000개 이상의 지점과 5000개의 은행에서 쉽게 지불할 수 있다.
+- Mofin
 - TrustCircle
-- SHA
-- Mobivi
 - Zoti
-- Vay ~~
 
 # MOMO
 - 베트남 iOS와 Android 앱 스토어에서 금융 부문 1위를 차지한 첫번째 모바일 전자지갑 앱인 모모
@@ -182,10 +210,14 @@
 
 # Reference
 
+  - Financial Inclusion Data / Global Findex - Vietnam (2014), *World Bank*, Retrieved from http://datatopics.worldbank.org/financialinclusion/country/vietnam
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
   - Kate Tran (2017.12.18), Vietnamese consumer finance market, *The Low Down*, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
   - Henry Lim (2016.10.30), The Future Of P2P Lending in Southeast Asia [Medium], Retrieved from https://medium.com/@henry0104/futureofp2plendinginsoutheastasia-3569480c04d4
   - Consumer lending in VN surged 65% in 2017 (2018.01.09), *Viet Nam News*, Retrieved from http://vietnamnews.vn/economy/420785/consumer-lending-in-vn-surged-65-in-2017.html#mTY60fEJh5JJG7L7.97
+  - New Peer-To-Peer Lending Players In Vietnam (2018.01.31), *Fintechnews Singapore*, Retrieved from http://fintechnews.sg/16154/vietnam/peer-peer-lending-vietnam-2/
+  - Just 3% of bank loans go to SMEs (2016.11.24), *Vietnam Breaking News*, Retrieved from https://www.vietnambreakingnews.com/2016/11/just-3-of-bank-loans-go-to-smes/
+  - Peer to Peer lending increasingly popular in Vietnam (2018.03.14), *Vietnam.net* Retrieved from http://english.vietnamnet.vn/fms/business/196765/peer-to-peer-lending-increasingly-popular-in-vietnam.html
   - 기준하 (2018), 『P2P 대출의 현황과 향후 과제』, 국회입법조사처
   - 이성복 (2018), 『P2P 대출중개시장 분석과 시사점』, KCMI 자본시장연구원
   - 최광일 (2017.11.01), 『베트남 전자지갑 앱 '모모'의 거침없는 진격 』, Insight Korea, Retrieved from http://www.insightkorea.co.kr/news/articleView.html?idxno=14993
