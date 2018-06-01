@@ -241,7 +241,7 @@
   - 더 정교한 모델링과 고객 타깃팅이 필요해질 것이므로 비전통적 신용 모델과 데이터 소스가 중요해질 것이다.
 
 
-# Reference <a name="m6">
+# Reference <a name="m7">
   - Financial Inclusion Data / Global Findex - Vietnam (2014), *World Bank*, Retrieved from http://datatopics.worldbank.org/financialinclusion/country/vietnam
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
   - Kate Tran (2017.12.18), Vietnamese consumer finance market, *The Low Down*, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
