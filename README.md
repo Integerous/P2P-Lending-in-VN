@@ -2,6 +2,9 @@
 # P2P Lending in VN
 - 베트남 P2P 대출 시장 리서치
 
+{TOC}
+
+
 
 ## 목차
 1. **[P2P 대출](#m1)**  
@@ -12,6 +15,7 @@
   2.1. 인구 특징  
   2.2. 금융시장 특징  
   2.3. 인터넷 사용률  
+  2.4. 베트남 P2P 대출 설문 
 3. **[소비자 대출 현황과 전망](#m3)**  
   3.1. 소비 비중이 높은 베트남  
   3.2. 증가하는 소비자 대출  
@@ -80,13 +84,12 @@
   - 모바일 기기에서의 웹 트래픽(34%)은 PC에서의 웹 트래픽(64%)에 비해 낮지만, 매년 40%씩 빠르게 증가하는 추세다.  (세계 평균은 30%씩 증가)
   - 2016년에 베트남 총리가 비준한 광대역 개발 계획에 따라 베트남 정부는 2020년까지 인구의 95%가 4G LTE를 사용할 수 있도록 범위를 확장할 계획이다.
 
-  # 2017년 Duy Tan 대학의 P2P 대출 설문 결과에 따르면
-  - 약 90%의 응답자들이 은행과 관련없이 차입과 대출에 관여해왔다.
-  - 약 70%의 응답자들이 모르는 사람에게 돈을 빌려준 적이 없었다.
-  - P2P 대출의 중요한 특징으로 투자자와 차입자의 평가,
-  코멘트 그리고 시스템에 대한 정보가 개방되어 이러한 정보를 기반으로 모르는 사람에게 신용을 부여할 수 있다는 점.
-  - 약 70%의 응답자들이 P2P를 사용하기 위해 기꺼이 세금을 내겠다고 답변함.
-  - 약 90%의 응답자들이 더 편하고 안전하게 대출받기 위해 P2P를 사용하겠다고 답변했다. 
+  ## 2.4. 베트남 P2P 대출 설문 결과
+  - **[2017년 Duy Tan 대학의 P2P 대출 설문 결과][1]에 따르면**
+    - 약 90%의 응답자들이 은행과 관련없이 차입과 대출에 관여해왔다.
+    - 약 70%의 응답자들이 모르는 사람에게 돈을 빌려준 적이 없었다.
+    - 약 70%의 응답자들이 P2P를 사용하기 위해 기꺼이 세금을 내겠다고 답변함.
+    - 약 90%의 응답자들이 더 편하고 안전하게 대출받기 위해 P2P를 사용하겠다고 답변했다. 
 
   
 # 3. 베트남 소비자 대출 현황과 전망 <a name="m3">
@@ -239,7 +242,7 @@
 
 
 # Reference
-
+  - [1]:https://media.neliti.com/media/publications/178855-EN-the-sharing-economy-and-collaborative-fi.pdf
   - Financial Inclusion Data / Global Findex - Vietnam (2014), *World Bank*, Retrieved from http://datatopics.worldbank.org/financialinclusion/country/vietnam
   - Tran Dinh Uyen, Hoang Ha (2017), *THE SHARING ECONOMY AND COLLABORATIVE FINANCE: THE CASE OF P2P LEDING IN VIETNAM* (Duy Tan University)
   - Kate Tran (2017.12.18), Vietnamese consumer finance market, *The Low Down*, Retrieved from https://thelowdown.momentum.asia/plenty-room-growth-remains-vietnamese-consumer-finance-market/
