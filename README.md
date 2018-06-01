@@ -110,7 +110,8 @@
   ### 3.1. 소비 비중이 높은 베트남
   - 베트남 GDP 대비 가계소비지출은 2016년 기준 64.4%이며 지난 8년간 63%를 상회한 만큼 소비 비중이 높다.  
     
-![World Bank](https://i0.wp.com/thelowdown.momentum.asia/wp-content/uploads/2017/12/image1.png?w=600&ssl=1)
+![World Bank](https://i0.wp.com/thelowdown.momentum.asia/wp-content/uploads/2017/12/image1.png?w=600&ssl=1)  
+  - [표 1] GDP의 가계 소비 비중
   
   ### 3.2. 증가하는 소비자 대출
   - 베트남 금융감독위원회(NFSC)에 따르면 2017년 소비자 대출이 전체 대출의 18% 차지했고 2016년 12.3%보다 증가했다.
@@ -125,10 +126,10 @@
   - 하지만 소비자 금융회사들은 은행들에 비해 경쟁적 우위에 있다. 소비자들은 결혼자금, 여행 또는 가전제품을 사는 등의 작고 급한 대출이 필요할 때 소비자 금융회사에 손을 뻗기 때문이다.  
   
 ![vietnambiz.vn](https://i2.wp.com/thelowdown.momentum.asia/wp-content/uploads/2017/12/break-down.png?w=423&ssl=1)  
-- 소비자 대출 목적의 각 비중  
+- [표 2] 소비자 대출 목적의 각 비중  
 
 ![vietnambiz.vn](https://i0.wp.com/thelowdown.momentum.asia/wp-content/uploads/2017/12/image4.png?w=435&ssl=1)  
-- 상위 7개 소비자 금융회사의 총 대출액(USD)  
+- [표 3] 상위 7개 소비자 금융회사의 총 대출액(USD)  
 
 ### 3.5. 소비자 대출 시장 전망
 - 베트남 금융감독위원회는 소비자 대출 시장이 앞으로 높은 성장세를 보일 것으로 전망하고 있다.
